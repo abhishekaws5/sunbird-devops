@@ -15,7 +15,7 @@
     # ##############################################################
     # MANDATORY TO CHANGE
     # ##############################################################
-    version: "3.9"
+    version: "5.1.0"
     sp_client_id: ""
     sp_client_secret: ""
     ssh_public_key_file_location: /home/rajesh_r/deployer.pub
