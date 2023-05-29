@@ -6,7 +6,7 @@
 #     Ref: https://docs.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli#install-ansible-on-the-virtual-machine
 # Prerequisites:
 #   Have to create SP for kubernetes cluster
-#     Command: az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/xxx-xxx-xxxx-xxx" --name install-testing-5.1.0
+#     Command: az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/xxx-xxx-xxxx-xxx" --name install-testing-5.2.0
 ---
 - hosts: localhost
   connection: local
