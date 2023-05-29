@@ -12,7 +12,7 @@
   connection: local
   gather_facts: false
   vars:
-    ansible_python_interpreter: /Python-3.7.0
+    ansible_python_interpreter: /Python3
     # ##############################################################
     # MANDATORY TO CHANGE
     # ##############################################################
