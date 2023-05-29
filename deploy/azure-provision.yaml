@@ -135,7 +135,7 @@
       tags:
         - vm
     # Note: to download the aks kubeconfig
-    # az aks get-credentials --resource-group sunbird-installation-test-3.9 --name sb-installation-3-9
+    # az aks get-credentials --resource-group sunbird-installation-test-5.1.0 --name sb-installation-5-1-0
     - name: Create a managed Azure Container Services (AKS) cluster
       azure_rm_aks:
         name: "{{ storage_account_name }}"
