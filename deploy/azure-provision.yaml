@@ -18,9 +18,13 @@
     version: "5.2.0"
     sp_client_id: ""
     sp_client_secret: ""
-   
-   
-   
+    ssh_public_key_file_location: C:\Users\Abhishek Kurahatti\Downloads
+    ############### Maxmind licence key ###########################
+    # To create license key
+    # Goto: https://www.maxmind.com/en/accounts/current/license-key
+    # Click: Generate a new license key.
+    # ##############################################################
+    geoip_licence_key: ""
     # ##############################################################
     # OPTIONAL
     # ##############################################################
