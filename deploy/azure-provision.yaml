@@ -16,8 +16,8 @@
     # MANDATORY TO CHANGE
     # ##############################################################
     version: "5.2.0"
-    sp_client_id: ""
-    sp_client_secret: ""
+    sp_client_id: "HSQ8Q~8svpwaxc56Xj02FJU2QX~gLLUB5l28Ca0W"
+    sp_client_secret: "35e6abe0-62fb-4113-8dc0-2ad491fce4b0"
     ssh_public_key_file_location: C:\Users\Abhishek Kurahatti\Downloads\VM_key_001.pem
     ############### Maxmind licence key ###########################
     # To create license key
