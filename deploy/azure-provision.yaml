@@ -18,7 +18,7 @@
     version: "5.2.0"
     sp_client_id: ""
     sp_client_secret: ""
-    ssh_public_key_file_location: C:\Users\Abhishek Kurahatti\Downloads
+    ssh_public_key_file_location: C:\Users\Abhishek Kurahatti\Downloads\singa-key.pem
     ############### Maxmind licence key ###########################
     # To create license key
     # Goto: https://www.maxmind.com/en/accounts/current/license-key
